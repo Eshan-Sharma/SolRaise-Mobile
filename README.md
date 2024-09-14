@@ -10,6 +10,14 @@
 - **Main Project Live Link**: [https://sol-raise.vercel.app/](https://sol-raise.vercel.app/)
 - **Mobile Project**: [Eshan-Sharma/SolRaise-Mobile](https://github.com/Eshan-Sharma/SolRaise-Mobile)
 
+## Solana Escrow Contract Information
+
+- **Escrow Account on Solana**: [Solana Explorer](https://explorer.solana.com/tx/3hpSchewHDvWHm6B9Wk5KqtDjrhzdJDTdafad7iym6sAMnNmXksMKiEzy2NdMgLAP4LRsjN3X2p6F6Xf5XvQbALN?cluster=devnet)
+- **Escrow Program ID**: HqqkyS7miTreeC6qhj4iCPD8cuAtbGgiRbJceCGdF9AB
+- **Anchor IDL**: [IDL.json](solana-escrow/idl.json)
+- ![image](https://github.com/user-attachments/assets/24cef897-ac4b-444f-8bfa-d2cf3805c37a)
+
+
 ---
 
 ## Project Details
