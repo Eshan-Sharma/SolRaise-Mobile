@@ -17,6 +17,11 @@
 - **Anchor IDL**: [IDL.json](idl.json)
 - ![image](https://github.com/user-attachments/assets/24cef897-ac4b-444f-8bfa-d2cf3805c37a)
 
+## Expo Application Services (EAS)
+
+### Android build artifact ready through EAS.
+
+![image](https://github.com/user-attachments/assets/92c73d20-6195-435c-9310-bed39b4591ff)
 
 ---
 
