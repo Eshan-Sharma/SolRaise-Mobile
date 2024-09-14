@@ -21,6 +21,7 @@ Traditional mobile crowdfunding applications often suffer from high fees, lack o
 ### Solution
 
 SolRaise Mobile tackles these challenges by:
+
 - Utilizing the **Solana blockchain** for rapid, low-cost transactions on mobile devices.
 - Offering an intuitive, mobile-optimized user interface for easy fundraising and donating.
 - Implementing mobile-friendly donor-recipient matching to foster connections.
@@ -66,51 +67,69 @@ Our mobile platform makes decentralized fundraising more accessible, allowing us
 To set up the **SolRaise Mobile** Expo project locally, follow these steps:
 
 ### 1. Clone the repository:
+
 ```bash
 git clone https://github.com/Eshan-Sharma/SolRaise-Mobile.git
 cd SolRaise-Mobile
 ```
+
 ### 2. Install dependencies:
+
 ```bash
 npm install
 ```
+
 ### 3. Install Expo CLI globally (if not already installed):
+
 ```bash
 npm install -g expo-cli
 ```
+
 ### 4. Set up environment variables:
+
 Create a .env file in the root directory and add the necessary environment variables (e.g., Solana RPC URL, API keys).
 
 ### 5. Start the Expo development server:
+
 ```bash
 expo start
 ```
+
 ### 6. Run on mobile device or emulator:
+
 For iOS simulator: Press i in the terminal or click "Run on iOS simulator" in the Expo DevTools.
 For Android emulator: Press a in the terminal or click "Run on Android device/emulator" in the Expo DevTools.
 To run on a physical device: Scan the QR code with the Expo Go app (iOS) or the Expo app (Android).
 
 ## Testing
+
 To run the test suite:
 
 ```bash
 npm test
 ```
+
 Building for Production
 To create a production build:
 
 For iOS:
+
 ```bash
 expo build:ios
 ```
+
 For Android:
+
 ```bash
 expo build:android
 ```
+
 Follow the prompts to complete the build process.
 
 ## Contributing
+
 We welcome contributions to SolRaise Mobile! Please read our CONTRIBUTING.md file for guidelines on how to submit pull requests, report issues, and suggest improvements.
 
 ## License
+
 This project is licensed under the MIT License.

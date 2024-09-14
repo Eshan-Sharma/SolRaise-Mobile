@@ -4,16 +4,23 @@ We're excited that you're interested in contributing to SolRaise Mobile! This do
 
 ## Table of Contents
 
-1. [Code of Conduct](#code-of-conduct)
-2. [Getting Started](#getting-started)
-3. [How Can I Contribute?](#how-can-i-contribute)
-4. [Development Environment Setup](#development-environment-setup)
-5. [Style Guidelines](#style-guidelines)
-6. [Commit Messages](#commit-messages)
-7. [Pull Requests](#pull-requests)
-8. [Testing](#testing)
-9. [Debugging](#debugging)
-10. [Community](#community)
+- [Contributing to SolRaise Mobile](#contributing-to-solraise-mobile)
+  - [Table of Contents](#table-of-contents)
+  - [Code of Conduct](#code-of-conduct)
+  - [Getting Started](#getting-started)
+  - [How Can I Contribute?](#how-can-i-contribute)
+    - [Reporting Bugs](#reporting-bugs)
+    - [Suggesting Enhancements](#suggesting-enhancements)
+    - [Your First Code Contribution](#your-first-code-contribution)
+  - [Development Environment Setup](#development-environment-setup)
+  - [Style Guidelines](#style-guidelines)
+    - [JavaScript and React Native Style Guide](#javascript-and-react-native-style-guide)
+    - [ESLint and Prettier](#eslint-and-prettier)
+  - [Commit Messages](#commit-messages)
+  - [Pull Requests](#pull-requests)
+  - [Testing](#testing)
+  - [Debugging](#debugging)
+  - [Community](#community)
 
 ## Code of Conduct
 
