@@ -200,6 +200,18 @@ For Android:
 expo build:android
 ```
 
+For EAS Build
+
+```bash
+npx eas build --profile development --platform android
+```
+
+Run EAS Build 
+
+```bash
+npx expo start --dev-client
+```
+
 Follow the prompts to complete the build process.
 
 ## Contributing
