@@ -87,7 +87,7 @@ export function useTransferSol({ address }: { address: PublicKey }) {
         });
 
         // Send transaction and await for signature
-        signature = await wallet.signAndSendTransaction(transaction);
+        signature = await wallet!.signAndSendTransaction(transaction);
 
         // Send transaction and await for signature
         await connection.confirmTransaction(
