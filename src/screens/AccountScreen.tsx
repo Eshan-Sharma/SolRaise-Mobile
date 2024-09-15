@@ -1,3 +1,4 @@
+import { SafeAreaView } from "react-native-safe-area-context";
 import { useAuthorization } from "../utils/useAuthorization";
 import { StyleSheet, View } from "react-native";
 
@@ -6,7 +7,7 @@ export default function AccountScreen() {
 
   return (
     <>
-      <View style={styles.screenContainer}></View>
+      <SafeAreaView style={styles.screenContainer}></SafeAreaView>
     </>
   );
 }

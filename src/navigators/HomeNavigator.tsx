@@ -4,7 +4,8 @@ import { TopBar } from "../components/top-bar/top-bar-feature";
 import { HomeScreen } from "../screens/HomeScreen";
 import MaterialCommunityIcon from "@expo/vector-icons/MaterialCommunityIcons";
 import { useTheme } from "react-native-paper";
-import BlankScreen from "../screens/BlankScreen";
+import CreateCampaign from "../screens/CreateCampaign";
+import Projects from "../screens/Projects";
 
 const Tab = createBottomTabNavigator();
 
@@ -30,6 +31,22 @@ export function HomeNavigator() {
                   color={color}
                 />
               );
+            case "Create Campaign":
+              return (
+                <MaterialCommunityIcon
+                  name={focused ? "plus-box" : "plus-box-outline"}
+                  size={size}
+                  color={color}
+                />
+              );
+            case "View Projects":
+              return (
+                <MaterialCommunityIcon
+                  name={focused ? "eye" : "eye-outline"}
+                  size={size}
+                  color={color}
+                />
+              );
             case "Blank":
               return (
                 <MaterialCommunityIcon
@@ -45,7 +62,8 @@ export function HomeNavigator() {
       })}
     >
       <Tab.Screen name="Home" component={HomeScreen} />
-      <Tab.Screen name="Blank" component={BlankScreen} />
+      <Tab.Screen name="Create Campaign" component={CreateCampaign} />
+      <Tab.Screen name="View Projects" component={Projects} />
     </Tab.Navigator>
   );
 }

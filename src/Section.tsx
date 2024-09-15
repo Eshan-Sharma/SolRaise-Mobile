@@ -1,6 +1,7 @@
 import React, { ReactNode } from "react";
 import { StyleSheet, View } from "react-native";
 import { Text } from "react-native-paper";
+import { SafeAreaView } from "react-native-safe-area-context";
 
 export const Section: React.FC<{
   children?: ReactNode;
@@ -8,7 +9,7 @@ export const Section: React.FC<{
   title?: string;
 }> = ({ children, description, title }) => {
   return (
-    <View style={styles.sectionContainer}>
+    <SafeAreaView style={styles.sectionContainer}>
       {title ? (
         <Text style={styles.titleText} variant="headlineMedium">
           {title}
@@ -16,7 +17,7 @@ export const Section: React.FC<{
       ) : null}
       {description ? <Text variant="bodyMedium">{description}</Text> : null}
       {children}
-    </View>
+    </SafeAreaView>
   );
 };
 
