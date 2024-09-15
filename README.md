@@ -14,6 +14,10 @@
 ![image](https://github.com/user-attachments/assets/737f2496-a578-4610-b6c2-205a0257133f)
 ![image](https://github.com/user-attachments/assets/0824f9cc-d3dd-4147-90c0-5474e79efd4c)
 
+## Current Progress(15 Sept 2024)
+
+https://github.com/user-attachments/assets/00f6fc51-fb1e-4f9d-8809-89dffe964930
+
 # Tech Stack
 
 ## Web Application (SolRaise)
