@@ -6,7 +6,7 @@ import * as anchor from "@coral-xyz/anchor";
 import { BasicCounter as BasicCounterProgram } from "../../../counter-program/target/types/basic_counter";
 import idl from "../../../counter-program/target/idl/basic_counter.json";
 import { useConnection } from "../../utils/ConnectionProvider";
-import { useAnchorWallet } from "../../utils/useAnchorWallet";
+import { useAnchorWallet } from "../../utils/useMobileWallet";
 import { useMutation, useQuery } from "@tanstack/react-query";
 import { alertAndLog } from "../../utils/alertAndLog";
 
