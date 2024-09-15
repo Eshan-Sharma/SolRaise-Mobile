@@ -11,8 +11,8 @@
 - **Mobile Project**: [Eshan-Sharma/SolRaise-Mobile](https://github.com/Eshan-Sharma/SolRaise-Mobile)
 
 # Design(Work in progress)
-![image](https://github.com/user-attachments/assets/ff1db6a6-a231-4d02-bd89-dc8e2728eac7)
-![image](https://github.com/user-attachments/assets/a873b2df-fbf7-4a7b-a608-70aa951c0740)
+![image](https://github.com/user-attachments/assets/737f2496-a578-4610-b6c2-205a0257133f)
+![image](https://github.com/user-attachments/assets/0824f9cc-d3dd-4147-90c0-5474e79efd4c)
 
 # Tech Stack
 
