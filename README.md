@@ -14,9 +14,11 @@
 ![image](https://github.com/user-attachments/assets/737f2496-a578-4610-b6c2-205a0257133f)
 ![image](https://github.com/user-attachments/assets/0824f9cc-d3dd-4147-90c0-5474e79efd4c)
 
-## Current Progress(15 Sept 2024)
+## Project Demo (Work in progress)
 
 https://github.com/user-attachments/assets/00f6fc51-fb1e-4f9d-8809-89dffe964930
+
+For detailed updates and incremental demo videos, check out the [Incremental Project Updates](INCREMENTAL_PROJECT_UPDATE_DEMOS.md) page.
 
 # Tech Stack
 
